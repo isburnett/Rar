@@ -1,0 +1,13 @@
+{
+  "name": "astroid-gg",
+  "version": "1.0.0",
+  "description": "Proxy system with frontend and backend on the same page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.1"
+  }
+}
